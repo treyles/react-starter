@@ -18,7 +18,6 @@ This was made in an effort to familiarize myself with modern JS build tools and 
 
 ```bash
 git clone https://github.com/treyles/react-starter.git
-cd react-starter
 ```
 
 **Install**
